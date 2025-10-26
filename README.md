@@ -70,8 +70,10 @@ Gra jest przeznaczona dla dwóch graczy lokalnych i posiada licznik czasu, syste
 
 ## 🔧 Autor
 
-Projekt stworzony przez **Maciej Strzelec**
-📅 Rok: **Marzec 2025**
+Projekt stworzony przez **Maciej Strzelec**.
+
+📅 Rok: **Marzec 2025**.
+
 💻 Technologie: **C#, WPF, .NET**
 
 ---

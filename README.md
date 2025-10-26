@@ -1,6 +1,6 @@
 ---
 
-````markdown
+```markdown
 # 🎮 Kółko i Krzyżyk (Tic Tac Toe)
 
 Prosty projekt gry **Kółko i Krzyżyk** napisany w **C# (WPF)**.  

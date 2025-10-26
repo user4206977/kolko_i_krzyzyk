@@ -25,7 +25,8 @@ Gra jest przeznaczona dla dwóch graczy lokalnych i posiada licznik czasu, syste
 
 ## 🖥️ Zrzut ekranu
 
-![Screenshot](screenshot.png)
+<img width="786" height="441" alt="image" src="https://github.com/user-attachments/assets/57832bd9-1858-4e50-b26e-d105858a7a03" />
+
 ````
 
 ---

@@ -71,7 +71,9 @@ Gra jest przeznaczona dla dwóch graczy lokalnych i posiada licznik czasu, syste
 ## 🔧 Autor
 
 Projekt stworzony przez **Maciej Strzelec**.
+
 📅 Rok: **Marzec 2025**.
+
 💻 Technologie: **C#, WPF, .NET**
 
 ---
@@ -79,4 +81,5 @@ Projekt stworzony przez **Maciej Strzelec**.
 ## 📜 Licencja
 
 Ten projekt jest udostępniony na licencji **MIT**.
+
 Możesz swobodnie korzystać, modyfikować i udostępniać projekt z zachowaniem informacji o autorze.

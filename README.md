@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🎮 Kółko i Krzyżyk (Tic Tac Toe)
 

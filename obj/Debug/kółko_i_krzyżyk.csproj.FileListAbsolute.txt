@@ -1,0 +1,30 @@
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\bin\Debug\kółko_i_krzyżyk.exe.config
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\bin\Debug\kółko_i_krzyżyk.exe
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\bin\Debug\kółko_i_krzyżyk.pdb
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.csproj.AssemblyReference.cache
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\MainWindow.g.cs
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\App.g.cs
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk_MarkupCompile.cache
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk_MarkupCompile.lref
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\MainWindow.baml
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.g.resources
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.csproj.GenerateResource.cache
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.csproj.CoreCompileInputs.cache
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.exe
+D:\.ZS4\PPAD (C#)\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.pdb
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\bin\Debug\kółko_i_krzyżyk.exe.config
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\bin\Debug\kółko_i_krzyżyk.exe
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\bin\Debug\kółko_i_krzyżyk.pdb
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.csproj.AssemblyReference.cache
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\MainWindow.g.cs
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\App.g.cs
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk_MarkupCompile.cache
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk_MarkupCompile.lref
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\MainWindow.baml
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.g.resources
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.csproj.GenerateResource.cache
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.exe
+C:\Users\user42069_77\Desktop\kółko_i_krzyżyk\kółko_i_krzyżyk\obj\Debug\kółko_i_krzyżyk.pdb

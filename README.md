@@ -20,7 +20,7 @@ Gra jest przeznaczona dla dwóch graczy lokalnych i posiada licznik czasu, syste
 
 ---
 
-## 🖥️ Zrzut ekranu
+## 🖥️ Wygląd aplikacji
 
 <img width="786" height="441" alt="image" src="https://github.com/user-attachments/assets/57832bd9-1858-4e50-b26e-d105858a7a03" />
 
@@ -70,8 +70,8 @@ Gra jest przeznaczona dla dwóch graczy lokalnych i posiada licznik czasu, syste
 
 ## 🔧 Autor
 
-Projekt stworzony przez **[Twoje imię lub nick]**
-📅 Rok: **2025**
+Projekt stworzony przez **Maciej Strzelec**
+📅 Rok: **Marzec 2025**
 💻 Technologie: **C#, WPF, .NET**
 
 ---
@@ -80,5 +80,3 @@ Projekt stworzony przez **[Twoje imię lub nick]**
 
 Ten projekt jest udostępniony na licencji **MIT**.
 Możesz swobodnie korzystać, modyfikować i udostępniać projekt z zachowaniem informacji o autorze.
-
-```
